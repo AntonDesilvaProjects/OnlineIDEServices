@@ -1,0 +1,4 @@
+
+psquid:S1488 "YImmediately return this expression instead of assigning it to the temporary variable "m".(©«ñŒ
+dsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(™Ã­Éÿÿÿÿÿ
+asquid:S4488$"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(»®À‘

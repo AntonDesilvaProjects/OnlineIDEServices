@@ -1,0 +1,11 @@
+
+psquid:S1192O"MDefine a constant instead of duplicating this literal "created_time" 3 times.(·˜—æýÿÿÿÿ8÷úä²‚-
+bsquid:UnusedPrivateMethodF"6Remove this unused private "getRootLevelNodes" method.(¯ºš¹8ôýõ®‚-
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(Î¨Û8Üí®‚-
+‰squid:S1488J"fImmediately return this expression instead of assigning it to the temporary variable "rootLevelNodes".(ˆ¦ªÔúÿÿÿÿ8î‡•°‚-
+gsquid:UnusedPrivateMethod["6Remove this unused private "getNodesByProject" method.(¦…ûÉþÿÿÿÿ8Ÿï„¯‚-
+bsquid:UnusedPrivateMethods"6Remove this unused private "getNodesByPackage" method.(·Û²®8™¬ÿ®‚-
+msquid:S1192$"JDefine a constant instead of duplicating this literal "projectId" 3 times.(Æåÿ‚ÿÿÿÿÿ8ë±à²‚-
+Œsquid:S1488b"iImmediately return this expression instead of assigning it to the temporary variable "projectLevelNodes".(ëëØ‘ÿÿÿÿÿ8âÑº°‚-
+ksquid:S1192P"MDefine a constant instead of duplicating this literal "updated_time" 3 times.(“Ë¼‹8÷úä²‚-
+‡squid:S1488z"iImmediately return this expression instead of assigning it to the temporary variable "packageLevelNodes".(•î„ë8ßÌì²‚-
