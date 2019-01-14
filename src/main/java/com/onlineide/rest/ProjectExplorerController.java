@@ -5,6 +5,7 @@ import com.onlineide.dto.request.NewProjectItemRequest;
 import com.onlineide.dto.response.BaseServiceResponse;
 import com.onlineide.dto.response.Error;
 import com.onlineide.dto.response.NewItemDto;
+import com.onlineide.dto.response.ProjectExplorerTreeResponse;
 import com.onlineide.service.ProjectExplorerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.StringUtils;
@@ -23,7 +24,7 @@ public class ProjectExplorerController {
     public BaseServiceResponse<List<Node>> getProjectExplorerProjects()
     {
         //gets all the projects
-        BaseServiceResponse<List<Node>> response = new BaseServiceResponse<>();
+        ProjectExplorerTreeResponse response = new ProjectExplorerTreeResponse();
         try {
             List<Node> projectItems = projectExplorerService.getAllProjectItems();
             response.setResponse(projectItems);

@@ -1,5 +1,8 @@
 package com.onlineide.dao;
 
+import com.onlineide.dto.EditorContentDto;
+
 public interface EditorDao {
-    public boolean saveEditorContent( String fileNodeId );
+    public EditorContentDto getFileContent(String fileNodeId );
+    public boolean saveEditorContent( String fileNodeId, String fileContent );
 }

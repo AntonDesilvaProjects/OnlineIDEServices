@@ -43,7 +43,7 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/online_ide_creation.sql" connection-id="virtual-oracle-connection" session-id="MAIN" current-schema="" />
+    <mapping file-url="file://$PROJECT_DIR$/src/main/resources/online_ide_creation.sql" connection-id="fdc36cf5-487d-482a-af34-8cf679465236" session-id="MAIN" current-schema="ORACLEDB" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
     <method-browser />
